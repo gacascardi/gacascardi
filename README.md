@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 ✨Amante de novos conhecimentos, aprendi algumas linguagens de programação por curiosidade.
 ✨Profissional em Logística em busca de aprendizado para agregar na minha área.
 ✨Filha de 13 anos online eventualmente...
+✨Projeto paralelo GrazzArte em Designer de Mídias Digitais
 -->
