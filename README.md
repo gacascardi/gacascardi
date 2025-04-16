@@ -8,7 +8,7 @@ Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiro
 - Azure Cloud
 - Git e GitHub para versionamento
 - Noções de redes e formatação de computadores
-- Edição de imagens para redes sociais
+- Criação de artes para mídias sociais
 
 ## 🛠️ Tecnologias e Ferramentas
 - VS Code
