@@ -1,17 +1,34 @@
-## Hi there 👋
-Sou apaixonada em aprender como tudo funciona!
+# 👋 Olá! Eu sou a Grazi Cascardi
 
-✨Amante de novos conhecimentos, aprendi algumas linguagens de programação por curiosidade.
+Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiros passos no mundo da tecnologia, aprendendo na prática com projetos pessoais e freelas.
 
-✨Profissional em Logística em busca de aprendizado para agregar na minha área.
+## 🚀 O que estou aprendendo
+- HTML e CSS para desenvolvimento web
+- JavaScript básico
+- Azure Cloud
+- Git e GitHub para versionamento
+- Noções de redes e formatação de computadores
+- Edição de imagens para redes sociais
 
-✨Filha de 13 anos online eventualmente...
+## 🛠️ Tecnologias e Ferramentas
+- VS Code
+- Git e GitHub
+- Canva e Photoshop
+- Google Workspace
+- Azure
+- Windows / Linux 
 
-✨Projeto paralelo GrazzArte
+## 📌 Projetos em andamento
+- Meu portfólio pessoal (feito com HTML/CSS e hospedado no GitHub Pages)
+- Site institucional para uma confeitaria amiga
+- Criação de posts e artes para mídias sociais (um hobbie que sempre amei fazer)
 
-✨ Graduação em Gestão da Tecnologia da Informação em andamento.
+## 📫 Onde me encontrar
+- 🌐 Site: [www.cascardi.tech](https://www.cascardi.tech)
+- 📷 Instagram: [@grazzarte](https://instagram.com/grazzarte)
+- 💻 GitHub: [@gacascardi](https://github.com/gacascardi)
 
-![gold_outback1](https://github.com/user-attachments/assets/f0777896-63ac-405a-b614-413c13ac85d2)
+---
 
-
+✨ *Sempre aprendendo, sempre criando, sempre evoluindo!*
 
