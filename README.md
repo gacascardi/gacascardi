@@ -25,7 +25,7 @@ Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiro
 - Site em andamento para divulgação de culinária para uma amiga.
 - Criação de posts e artes para mídias sociais (um hobbie que sempre amei fazer)
 
-					<!-- == TODOS OS MEUS PROJETOS EM ANDAMENTO NÃO SÃO PARA FINS LUCRATIVOS, O VALOR QUE EU GANHO É O CONHECIMENTO E A PRÁTICA == -->
+					>>TODOS OS MEUS PROJETOS EM ANDAMENTO NÃO SÃO PARA FINS LUCRATIVOS, O VALOR QUE EU GANHO É O CONHECIMENTO E A PRÁTICA<<
 
 ## 📫 Onde me encontrar
 - 🌐 Site: [www.cascardi.tech](https://www.cascardi.tech)
