@@ -28,9 +28,9 @@ Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiro
 					>>TODOS OS MEUS PROJETOS EM ANDAMENTO NÃO SÃO PARA FINS LUCRATIVOS, O VALOR QUE EU GANHO É O CONHECIMENTO E A PRÁTICA<<
 
 ## 📫 Onde me encontrar
-- 🌐 Site: [www.cascardi.tech](https://www.cascardi.tech)
+- 🌐 Site: Em andamento
 - 📷 Instagram: [@grazzarte](https://instagram.com/grazzarte)
-- 💻 GitHub: [@gacascardi](https://github.com/gacascardi)
+- 💻 GitHub: [@gacascardi](https://github.com/grazz-arte)
 
 ---
 
