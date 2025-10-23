@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Grazi Cascardi
+# 👋 Olá! Eu sou a Grazi 
 
 Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiros passos no mundo da tecnologia, aprendendo na prática com projetos pessoais e freelas.
 
