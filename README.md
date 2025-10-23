@@ -4,10 +4,10 @@ Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiro
 
 ## 🚀 O que estou aprendendo
 - HTML e CSS para desenvolvimento web
-- JavaScript básico
-- Azure Cloud
+- JavaScript 
+- Azure
 - Git e GitHub para versionamento
-- Noções de redes e formatação de computadores
+- Estruturas de redes e Manutenção de Software
 - Criação de artes para mídias sociais
 
 ## 🛠️ Tecnologias e Ferramentas
