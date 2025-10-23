@@ -30,7 +30,7 @@ Sou estudante de Gestão da Tecnologia da Informação e estou dando os primeiro
 ## 📫 Onde me encontrar
 - 🌐 Site: Em andamento
 - 📷 Instagram: [@grazzarte](https://instagram.com/grazzarte)
-- 💻 GitHub: [@gacascardi](https://github.com/grazz-arte)
+- 💻 GitHub: [@grazz-arte](https://github.com/grazz-arte)
 
 ---
 
